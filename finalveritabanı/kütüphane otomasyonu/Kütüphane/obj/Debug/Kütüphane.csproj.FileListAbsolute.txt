@@ -1,0 +1,13 @@
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.csprojAssemblyReference.cache
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.EmanetListeleDetay.resources
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.KitapListeleDuzenle.resources
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.UyeListeleDuzenle.resources
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\BARAN DEMİR\Desktop\finalveritabanı\kütüphane otomasyonu\Kütüphane\obj\Debug\Kütüphane.pdb
